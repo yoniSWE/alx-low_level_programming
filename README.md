@@ -1,2 +1,1 @@
-# alx-low_level_programming
-ALX - Intro to C Programming
+Introduction to low level c language
