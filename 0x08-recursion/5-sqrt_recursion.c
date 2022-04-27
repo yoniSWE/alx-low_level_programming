@@ -24,10 +24,10 @@ int _evaluate(int i, int n)
 }
 
 /**
- *  *_sqrt_recursion - evaluate sqrt
- *   *@n: interger
- *    *Return: Sgrt_recursion
- *    */
+ * _sqrt_recursion - evaluate sqrt
+ * @n: interger
+ * Return: Sgrt_recursion
+ */
 
 int _sqrt_recursion(int n)
 {
