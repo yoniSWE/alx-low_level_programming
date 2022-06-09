@@ -34,4 +34,5 @@ unsigned int _strspn(char *s, char *accept)
 		i++; /*add x+1*/
 		return (count); /*return the value of count*/
 	}
+}
 
