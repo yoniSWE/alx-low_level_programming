@@ -25,7 +25,7 @@ unsigned int _strspn(char *s, char *accept)
 				count++; /*count number*/
 				break;
 			}
-			j++;    /*add j++*/
+			j++; /*add j++*/
 		}
 		if (s[i] != accept[j]) /*If aren't equals*/
 		{
